@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oblocks2",
+  "name": "Other Blocks 2",
+  "description": "New version of Other Blocks! Now more blocks, ores, items and cookies!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "http://www.planetminecraft.com/mod/1710-other-blocks-2/",
+  "updateUrl": "",
+  "authorList": ["VovaMaster99"],
+  "credits": "Minecraft Modding Forum for tutorials and ect., The Forge team for FML",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
